@@ -4,7 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-## tldr
+### tldr
 
 - devops engineer @ [ImportGenius](https://www.importgenius.com/)
 - [pandas](https://pandas.pydata.org/) contributor ([~15 PRs merged](https://github.com/pandas-dev/pandas/commits?author=kevsteramp) to main)
@@ -17,7 +17,7 @@ weight = 1
 
 ---
 
-## work exp
+### work exp
 
 **DevOps Engineer @ ImportGenius**; Jan 2024 - Present
 
@@ -48,7 +48,7 @@ _Python, AWS, Selectolax, BeautifulSoup4, Pandas_
 
 ---
 
-## projects / shennanigans
+### projects / shennanigans
 
 - homelab
   - old asus X455LF laptop w/ 4GB RAM, 1TB HDD and Windows XP installed
@@ -66,7 +66,7 @@ _Python, AWS, Selectolax, BeautifulSoup4, Pandas_
 
 ---
 
-## yaps (talks)
+### yaps (talks)
 
 - Pycon APAC 2025 - [Demystifying open-source contribution; My experience as a Pandas contributor](https://youtu.be/MIfd-ntWq_A?si=JqTM2cqOksi8i47p)
 - AWS Community Day 2024 - [ Git gud by being Lazy: Basics of Lazygit ](https://www.linkedin.com/posts/kevin-amparado_in-the-past-weekend-i-attended-aws-community-activity-7245400611364478976-Hv1e)
@@ -74,6 +74,6 @@ _Python, AWS, Selectolax, BeautifulSoup4, Pandas_
 
 ---
 
-## certs
+### certs
 
 - [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/df514b9a0bdf49d18fb0c191edc64a84) _(issued Feb 2024)_
