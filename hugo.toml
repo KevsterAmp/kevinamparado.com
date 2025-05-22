@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Kevin Amparado'
+theme = 'hugo-bearblog'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+[markup.goldmark.renderer]
+unsafe = true
+
