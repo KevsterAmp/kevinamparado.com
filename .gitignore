@@ -20,3 +20,5 @@ hugo.linux
 
 # MacOS
 .DS_Store
+
+content/blog/draft*.md
