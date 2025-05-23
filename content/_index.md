@@ -1,5 +1,6 @@
 +++
 title = "Home"
+description = "no fuzz, straight to the point info & blog about me."
 menu = "main"
 weight = 1
 +++
@@ -28,7 +29,7 @@ weight = 1
 
 _AWS, Python, Docker, Bash, Perl, Terraform, SphinxSearch, Datadog, Tencent Cloud_
 
-- Dashing Debut of 2024. Maintains large-scale shipments parser (~100GB/mo)
+- dashing debut of 2024. maintains large-scale shipment parser (~100GB/mo)
 - spearheaded terraform adoption; led terraform kickoff meeting
 - built multiple automations, improving efficiency & reducing manual work
 
@@ -38,8 +39,8 @@ _AWS, Python, Docker, Bash, Perl, Terraform, SphinxSearch, Datadog, Tencent Clou
 
 _Python, FastAPI, TikAPI, Digital Ocean, Redis, Docker_
 
-- Provides data-driven analysis of clients' TikTok performance and presence.
-- developed a REST API to collect TikTok data (Likes, Comments, Shares) via [ TikAPI ]()
+- provided data-driven analysis of clients' TikTok performance and presence
+- developed a REST API to collect TikTok data (Likes, Comments, Shares) via [ TikAPI ](https://tikapi.io/)
 
 <br>
 
@@ -47,8 +48,8 @@ _Python, FastAPI, TikAPI, Digital Ocean, Redis, Docker_
 
 _Python, AWS, Selectolax, BeautifulSoup4, Pandas_
 
-- Created various webscraping programs to collect job openings across 5+ sites
-- Leveraged API backdoors to access dynamically loaded data
+- created ~4 webscrapers to routinely gather job listing data from sites
+- utilized API backdoors to access dynamically loaded data
 
 ---
 
@@ -96,3 +97,5 @@ _currently building a strava-related project_
 ### certs
 
 - [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/df514b9a0bdf49d18fb0c191edc64a84) _(issued Feb 2024)_
+
+---

@@ -1,7 +1,9 @@
 {{ range .Site.Menus.main }}
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
+
 <p class="pnav">&nbsp~&nbsp&nbsp</p>
 
-<a href="https://github.com/KevsterAmp">Github</a>
-<a href="https://www.linkedin.com/in/kevin-amparado/">Linkedin</a>
+{{ range .Site.Menus.social }}
+<a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
