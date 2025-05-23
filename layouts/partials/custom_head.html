@@ -1,4 +1,19 @@
 <style>
+  :root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #faf4ed;
+    --heading-color: #d7827e;
+    --text-color: #575279;
+    --link-color: #56949f;
+    --code-background-color: #f2e9e1;
+    --code-color: #222;
+    --blockquote-color: #b4637a;
+    --bold-color: #ea9d34;
+  }
+
   @media (prefers-color-scheme: dark) {
     :root {
       --background-color: #191724;
@@ -8,7 +23,7 @@
       --visited-color: #8b6fcb;
       --code-background-color: #26233a;
       --code-color: #eb6f92;
-      --blockquote-color: #ccc;
+      --blockquote-color: #eb6f92;
       --bold-color: #f6c177;
     }
   }
@@ -40,5 +55,9 @@
   strong,
   b {
     color: var(--bold-color);
+  }
+
+  blockquote {
+    color: var(--blockquote-color);
   }
 </style>
