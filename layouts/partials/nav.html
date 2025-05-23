@@ -1,9 +1,5 @@
 {{ range .Site.Menus.main }}
 <a href="{{ .URL }}">{{ .Name }}</a>
-{{ end }}
-
-<p class="pnav">&nbsp~&nbsp&nbsp</p>
-
-{{ range .Site.Menus.social }}
+{{ end }} {{ range .Site.Menus.social }}
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
