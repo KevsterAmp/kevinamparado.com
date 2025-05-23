@@ -3,7 +3,7 @@
   <h1>{{ .Site.Title }}</h1>
 </a>
 <!-- <small>hello@kevinamparado.com</small> -->
-<p id="email">hello@kevinamparado.com</p>
+{{ .Site.Params.email }}
 <nav>{{- partial "nav.html" . -}}</nav>
 <blockquote> {{ .Params.description }} </blockquote>
 <hr>

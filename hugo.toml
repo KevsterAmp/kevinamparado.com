@@ -1,9 +1,13 @@
 baseURL = 'https://kevinamparado.com/'
 theme = 'hugo-bearblog'
+
 # Basic metadata configuration for your blog.
 title = "Kevin Amparado"
 author = "Kevin Amparado"
 languageCode = "en-US"
+
+[params]
+  email = "hello@kevinamparado.com"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -17,19 +21,14 @@ languageCode = "en-US"
 [markup.goldmark.renderer]
 unsafe = true
 
-[params]
-  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-  favicon = "images/icons8-code-folder-48.png"
-
 [menus]
   [[menus.social]]
-    name = "Github"
+    name = "github"
     url = "https://github.com/KevsterAmp"
     weight = 20
 
   [[menus.social]]
-    name = "Linkedin"
+    name = "linkedin"
     url = "https://www.linkedin.com/in/kevin-amparado/"
     weight = 30
 
