@@ -1,6 +1,5 @@
 +++
-title = "Home"
-description = "no fuzz, straight to the point info & blog about me."
+title = "home"
 menu = "main"
 weight = 1
 +++
@@ -23,79 +22,27 @@ weight = 1
 
 ---
 
-### work exp
+# hey
 
-**DevOps Engineer @ ImportGenius**; Jan 2024 - Present
-
-_AWS, Python, Docker, Bash, Perl, Terraform, SphinxSearch, Datadog, Tencent Cloud_
-
-- dashing debut of 2024. maintains large-scale shipment parser (~100GB/mo)
-- spearheaded terraform adoption; led terraform kickoff meeting
-- built multiple automations, improving efficiency & reducing manual work
+I’m a big linux and neovim nerd, which kind of naturally led me into working in devops.
 
 <br>
 
-**Backend Engineer @ R2 Engines**; Aug - Nov 2023
-
-_Python, FastAPI, TikAPI, Digital Ocean, Redis, Docker_
-
-- provided data-driven analysis of clients' TikTok performance and presence
-- developed a REST API to collect TikTok data (Likes, Comments, Shares) via [ TikAPI ](https://tikapi.io/)
+Honestly, i'm pretty lazy. I easily spot inefficiencies and menial processes, I always push and try to automate and improve it.
 
 <br>
 
-**Data Engineer Intern @ _Confidential_**; Apr - Aug 2023
-
-_Python, AWS, Selectolax, BeautifulSoup4, Pandas_
-
-- created ~4 webscrapers to routinely gather job listing data from sites
-- utilized API backdoors to access dynamically loaded data
-
----
-
-### projects / shennanigans
-
-Homelab
-
-_Asus X455LF, Ubuntu Server 24.04, Jellyfin, Samba_
-
-- initially an old asus X455LF laptop w/ 4GB RAM, 1TB HDD and Windows XP installed
-- Jellyfin as a media server + `aria2c` for torrent download automation
-- cctv footage archive using `ffmpeg` via RTSP protocol
+I’ve done everything from simple _bash scripts_ to building more _complex internal CLI tools_ and setting up _GitLab CI pipelines_.
 
 <br>
 
-[ pandas ](https://pandas.pydata.org/) contributor
+aside from infra management and config hell,
 
-- ~mostly one-liner changes on pandas docs lol~
-- improved `df.to_csv’s` performance when _Index=False_ by **94%**; [PR#59806](https://github.com/pandas-dev/pandas/pull/59608)
-- contributed [~15 commits](https://github.com/pandas-dev/pandas/commits?author=kevsteramp) on Pandas 3.0 & [some](https://github.com/pandas-dev/pandas/commits/2.3.x?author=kevsteramp) backports on 2.3
+- I handle 100% of the bugs and issues in our _largest legacy ETL_.
 
-<br>
-
-[ PUPSIS-Schedule-Exporter ](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter)
-
-- web extension to export students' schedule from PUPSIS website to 3 formats
-- [Showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 2.5K engagements, 35K views and 350 downloads
+- I became the _contact person_ of the data team for the ETL migration.
+  <br>
 
 <br>
 
-_currently building a strava-related project_
-
----
-
-### yaps (talks)
-
--- Pycon APAC 2025: [Demystifying open-source contribution; My experience as a Pandas contributor](https://youtu.be/MIfd-ntWq_A?si=JqTM2cqOksi8i47p)
-<br>
--- AWS Community Day 2024: [ Git gud by being Lazy: Basics of Lazygit ](https://www.linkedin.com/posts/kevin-amparado_in-the-past-weekend-i-attended-aws-community-activity-7245400611364478976-Hv1e)
-<br>
--- PythonPH Aug Meetup 2024: [ 5 underrated Python built-ins and how to use them ](https://www.linkedin.com/posts/kevin-amparado_pythonph-pythonph2024-pythonphaugustmeetup-activity-7236343438680473600-zUb3)
-
----
-
-### certs
-
-- [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/df514b9a0bdf49d18fb0c191edc64a84) _(issued Feb 2024)_
-
----
+If you think I'm what you're looking for, feel free to [email]() me.
