@@ -1,6 +1,5 @@
 +++
-title = "Blog"
-description = "no fuzz, straight to the point info & blog about me."
+title = "writing"
 menu = "main"
-weight = 2
+weight = 19
 +++
