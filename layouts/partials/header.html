@@ -5,7 +5,5 @@
 <!-- <small>hello@kevinamparado.com</small> -->
 <p id="email">hello@kevinamparado.com</p>
 <nav>{{- partial "nav.html" . -}}</nav>
-<blockquote>
-a no fuzz, straight to the point info & blog about me.
-</blockquote>
+<blockquote> {{ .Params.description }} </blockquote>
 <hr>
