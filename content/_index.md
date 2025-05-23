@@ -12,7 +12,7 @@ weight = 1
 <br>
 -- yapped about [open-source contribution](https://youtu.be/MIfd-ntWq_A?si=JqTM2cqOksi8i47p) on [Pycon APAC 2025](https://www.facebook.com/share/p/1Ahf5GrPxd/)
 <br>
--- built a [web extension](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter) that automates schedule export from [PUPSIS](https://sis2.pup.edu.ph/) to GCal
+-- built a [web extension](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter) that exports students' schedule on [PUPSIS](https://sis2.pup.edu.ph/) to GCal
 
 - [showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 35k+ views and 1.5k likes
 
@@ -74,7 +74,7 @@ _Asus X455LF, Ubuntu Server 24.04, Jellyfin, Samba_
 
 [ PUPSIS-Schedule-Exporter ](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter)
 
-- web extension to export the students' schedule from PUPSIS website to 3 formats
+- web extension to export students' schedule from PUPSIS website to 3 formats
 - [Showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 2.5K engagements, 35K views and 350 downloads
 
 <br>
