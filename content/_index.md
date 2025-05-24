@@ -45,4 +45,4 @@ aside from **infra management and config hell**,
 
 <br>
 
-If you think I'm a great fit, feel free to [email](mailto:hello@kevinamparado.com) me.
+for speaking engagements, freelance opportunities, or inquiries. feel free to [email](mailto:hello@kevinamparado.com) me.
