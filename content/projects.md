@@ -14,7 +14,7 @@ _Asus X455LF, Ubuntu Server 24.04, Jellyfin, Samba_
 
 <br>
 
-# [ pandas ](https://pandas.pydata.org/) contributor
+# pandas contributor
 
 - ~mostly one-liner changes on pandas docs lol~
 - improved `df.to_csv’s` performance when _Index=False_ by **94%**; [PR#59806](https://github.com/pandas-dev/pandas/pull/59608)
@@ -22,9 +22,9 @@ _Asus X455LF, Ubuntu Server 24.04, Jellyfin, Samba_
 
 <br>
 
-# [ PUPSIS-Schedule-Exporter ](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter)
+# PUPSIS-Schedule-Exporter
 
-- web extension to export students' schedule from PUPSIS website to 3 formats
+- [web extension](https://github.com/KevsterAmp/PUPSIS-Schedule-Exporter) to export students' schedule from PUPSIS website to 3 formats
 - [Showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 2.5K engagements, 35K views and 350 downloads
 
 <br>
