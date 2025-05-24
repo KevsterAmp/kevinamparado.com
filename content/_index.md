@@ -24,25 +24,25 @@ weight = 1
 
 # hey
 
-I’m a big linux and neovim nerd, which kind of naturally led me into working in devops.
+I’m a big **linux and neovim nerd**, which kind of naturally led me into **working in devops**.
 
 <br>
 
-Honestly, i'm pretty lazy. I easily spot inefficiencies and menial processes, I always push and try to automate and improve it.
+Honestly, i'm pretty lazy. I easily spot inefficiencies and menial processes, I always push and try to **automate and improve it**.
 
 <br>
 
-I’ve done everything from simple _bash scripts_ to building more _complex internal CLI tools_ and setting up _GitLab CI pipelines_.
+I’ve done everything from simple _bash scripts_ to building _complex internal CLI tools_ and setting up _GitLab CI pipelines_.
 
 <br>
 
-aside from infra management and config hell,
+aside from **infra management and config hell**,
 
-- I handle 100% of the bugs and issues in our _largest legacy ETL_.
+- I handle **100% of the bugs and issues** in our _largest legacy ETL_.
 
-- I became the _contact person_ of the data team for the ETL migration.
+- I'm the **contact person** of the data team for ETL migration.
   <br>
 
 <br>
 
-If you think I'm what you're looking for, feel free to [email]() me.
+If you think I'm a great fit, feel free to [email](mailto:hello@kevinamparado.com) me.
