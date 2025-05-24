@@ -11,7 +11,7 @@ weight = 3
 _AWS, Python, Docker, Bash, Perl, Terraform, SphinxSearch, Datadog, Tencent Cloud_
 
 - dashing debut of 2024. maintains large-scale shipment parser (~100GB/mo)
-- spearheaded terraform adoption; led terraform kickoff meeting
+- spearheaded [terraform](https://developer.hashicorp.com/terraform) adoption; led terraform kickoff meeting
 - built multiple automations, improving efficiency & reducing manual work
 
 <br>
@@ -20,7 +20,7 @@ _AWS, Python, Docker, Bash, Perl, Terraform, SphinxSearch, Datadog, Tencent Clou
 
 _Python, FastAPI, TikAPI, Digital Ocean, Redis, Docker_
 
-- provided data-driven analysis of clients' TikTok performance and presence
+- provided data-driven analysis of clients' [TikTok](https://tiktok.com) performance and presence
 - developed a REST API to collect TikTok data (Likes, Comments, Shares) via [ TikAPI ](https://tikapi.io/)
 
 <br>
@@ -29,7 +29,7 @@ _Python, FastAPI, TikAPI, Digital Ocean, Redis, Docker_
 
 _Python, AWS, Selectolax, BeautifulSoup4, Pandas_
 
-- created ~4 webscrapers to routinely gather job listing data from sites
+- created ~4 webscrapers to routinely gather job listing data on multiple sites
 - utilized API backdoors to access dynamically loaded data
 
 ---
