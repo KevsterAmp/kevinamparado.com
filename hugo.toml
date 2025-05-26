@@ -6,8 +6,19 @@ title = "Kevin Amparado"
 author = "Kevin Amparado"
 languageCode = "en-US"
 
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
 [params]
   email = "hello@kevinamparado.com"
+
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "no fuzz, straight to the point info & blog about Kevin Amparado, built using hugo bear"
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "Kevin Amparado"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -18,8 +29,8 @@ languageCode = "en-US"
     lineNumbersInTable = false
     codeFences = true
 
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.goldmark.renderer]
+  unsafe = true
 
 [menus]
   [[menus.social]]
