@@ -17,8 +17,6 @@ weight = 1
 - [showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 35k+ views and 1.5k likes
 
 -- i use [ nvim ](https://github.com/KevsterAmp/Lazyvim-config.nvim) and [tmux](https://github.com/tmux/tmux/wiki) btw
-<br>
--- ~cs @ [pup-manila](https://www.pup.edu.ph/)~ (dropped out on 1st yr lol :p)
 
 ---
 
@@ -28,7 +26,7 @@ I’m a big **linux and neovim nerd**, which kind of naturally led me into **wor
 
 <br>
 
-Honestly, i'm pretty lazy. I easily spot inefficiencies and menial processes, I always push and try to **automate and improve it**.
+Honestly, i'm pretty lazy. I spot inefficiencies and menial processes, I always push and try to **automate and improve it**.
 
 <br>
 
@@ -38,9 +36,9 @@ I’ve done everything from simple _bash scripts_ to building _complex internal 
 
 aside from **infra management and config hell**,
 
-- I handle **100% of the bugs and issues** in our _largest legacy ETL_.
+- I work and maintain legacy ETLs.
 
-- I'm the **contact person** of the data team for ETL migration.
+- sometimes investigate and analyze data
   <br>
 
 <br>
