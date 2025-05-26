@@ -26,20 +26,15 @@ I’m a big **linux and neovim nerd**, which kind of naturally led me into **wor
 
 <br>
 
-Honestly, i'm pretty lazy. I spot inefficiencies and menial processes, I always push and try to **automate and improve it**.
+honestly, I’m kind of lazy — which is exactly why **I’m always spotting inefficiencies and finding ways to improve or automate things**.
 
 <br>
 
-I’ve done everything from simple _bash scripts_ to building _complex internal CLI tools_ and setting up _GitLab CI pipelines_.
-
-<br>
-
-aside from **infra management and config hell**,
+aside from devops' **infra management and config hell**,
 
 - I work and maintain legacy ETLs.
 
-- sometimes investigate and analyze data
-  <br>
+- sometimes investigate, analyze and/or scrape data
 
 <br>
 
