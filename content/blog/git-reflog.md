@@ -3,10 +3,8 @@ title = "Git Reset isn’t scary, Reflog has your back"
 date = "2025-06-14"
 draft = false
 
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+
+description = "Afraid of using git reset? Don’t be. This post shows you how git reflog can rescue your lost commits, undo mistakes, and give you the confidence to use Git’s most powerful reset features without fear."
 
 tags = ["git"]
 +++
