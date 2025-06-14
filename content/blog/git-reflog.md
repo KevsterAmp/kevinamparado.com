@@ -1,7 +1,7 @@
 +++
 title = "Git Reset isn’t scary, Reflog has your back"
-date = "2025-06-14T20:00:00+08:00"
-draft = true
+date = "2025-06-14"
+draft = false
 
 #
 # description is optional
