@@ -10,6 +10,7 @@
 {{ end }}{{ end }}
 <content> {{ .Content }} </content>
 <p>
+  <br />
   {{ range (.GetTerms "tags") }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
