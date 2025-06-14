@@ -24,7 +24,7 @@ enableRobotsTXT = true
   defaultMarkdownHandler = 'goldmark'
 
   [markup.highlight]
-    style = 'friendly'
+    style = "gruvbox"
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
