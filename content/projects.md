@@ -4,13 +4,15 @@ menu = "main"
 weight = 2
 +++
 
-# homelab
+# budget homelab
 
-_Asus X455LF, Ubuntu Server 24.04, Jellyfin, Samba_
+![homelab dashboard](/homepage.png)
 
-- initially an old asus X455LF laptop w/ 4GB RAM, 1TB HDD and Windows XP installed
-- Jellyfin as a media server + `aria2c` for torrent download automation
-- cctv footage archive using `ffmpeg` via RTSP protocol
+- 2 old potato laptops: ASUS X455LF & Lenovo Ideapad 310
+- automated media server with Jellyfin & \*arr stack
+- image and video backup via Immich
+- custom ffmpeg + bash script to store raw mkv cctv footages with 30d retention
+- self-hosted DNS server with PiHole
 
 <br>
 

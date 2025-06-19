@@ -20,21 +20,26 @@ weight = 1
 
 ---
 
-# hey
+# hey,
 
-I’m a big **linux and neovim nerd**, which kind of naturally led me into **working in devops**.
+I’m a **linux and neovim nerd**, which kind of naturally led me into **working in devops**.
 
 <br>
 
-honestly, I’m kind of lazy — which is exactly why **I’m always spotting inefficiencies and finding ways to improve or automate things**.
+honestly, I’m lazy. Which is exactly why **I’m always spotting inefficiencies and finding ways to improve or automate things**.
 
 <br>
 
 aside from devops' **infra management and config hell**,
 
-- I work and maintain legacy ETLs.
+- I do a bit of DE stuff:
 
-- sometimes investigate, analyze and/or scrape data
+  - maintain legacy ETLs
+  - scrape sites
+  - investigate & analyze data here and there.
+
+- build stuff and break stuff on my homelab
+- open-source dev in my free time
 
 <br>
 
